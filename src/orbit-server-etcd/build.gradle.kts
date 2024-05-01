@@ -4,7 +4,7 @@
  See license in LICENSE.
  */
 val grpcVersion = project.rootProject.ext["grpcVersion"]
-val jetcdVersion = "0.5.0"
+val jetcdVersion = "0.5.11"
 
 plugins {
     kotlin("jvm")
