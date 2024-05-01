@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-alpine:11
+FROM azul/zulu-openjdk-alpine:11.0.23
 
 ARG GRPC_HEALTH_PROBE_VERSION=v0.3.2
 
