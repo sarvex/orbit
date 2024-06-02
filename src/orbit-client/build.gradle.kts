@@ -14,7 +14,7 @@ val micrometerVersion = project.rootProject.ext["micrometerVersion"]
 plugins {
     kotlin("jvm")
     `maven-publish`
-    id("com.github.johnrengelman.shadow") version "5.2.0"
+    id("com.github.johnrengelman.shadow") version "8.1.1"
 
 }
 
