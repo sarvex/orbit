@@ -6,7 +6,7 @@
 
 plugins {
     kotlin("jvm")
-    id("me.champeau.gradle.jmh") version "0.5.0"
+    id("me.champeau.gradle.jmh") version "0.5.3"
 }
 
 dependencies {
