@@ -35,7 +35,7 @@ val licenseName by extra("The BSD 3-Clause License")
 val licenseUrl by extra("http://opensource.org/licenses/BSD-3-Clause")
 
 plugins {
-    val kotlinVersion = "1.3.72"
+    val kotlinVersion = "2.0.0"
 
     base
     kotlin("jvm") version kotlinVersion apply false
