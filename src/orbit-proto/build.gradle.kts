@@ -33,7 +33,7 @@ dependencies {
     compile("io.grpc:grpc-stub:$grpcVersion")
 
     if (JavaVersion.current().isJava9Compatible) {
-        compileOnly("javax.annotation:javax.annotation-api:1.3.1")
+        compileOnly("javax.annotation:javax.annotation-api:1.3.2")
     }
 }
 
