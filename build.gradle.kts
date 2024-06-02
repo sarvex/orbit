@@ -39,7 +39,7 @@ plugins {
 
     base
     kotlin("jvm") version kotlinVersion apply false
-    id("org.jetbrains.dokka") version "0.10.0" apply false
+    id("org.jetbrains.dokka") version "0.10.1" apply false
 }
 
 allprojects {
