@@ -27,7 +27,7 @@ dependencies {
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:$jacksonVersion")
     implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:$jacksonVersion")
 
-    implementation("org.apache.commons:commons-text:1.8")
+    implementation("org.apache.commons:commons-text:1.12.0")
 }
 
 
