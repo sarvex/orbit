@@ -18,7 +18,7 @@ val kotlinCoroutinesVersion = project.rootProject.ext["kotlinCoroutinesVersion"]
 
 plugins {
     kotlin("jvm")
-    id("com.google.protobuf") version "0.8.10"
+    id("com.google.protobuf") version "0.9.5"
     `maven-publish`
 }
 
