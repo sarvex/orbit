@@ -4,7 +4,7 @@
  See license in LICENSE.
  */
 
-val kotlinLoggingVersion = "1.7.8"
+val kotlinLoggingVersion = "3.0.5"
 
 plugins {
     kotlin("jvm")
