@@ -17,7 +17,7 @@ dependencies {
     implementation(project(":src:orbit-proto"))
 
     implementation("io.grpc:grpc-netty-shaded:$grpcVersion")
-    implementation("org.jgrapht:jgrapht-core:1.3.1")
+    implementation("org.jgrapht:jgrapht-core:1.5.2")
 
     implementation("io.micrometer:micrometer-core:$micrometerVersion")
 }
