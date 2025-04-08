@@ -12,7 +12,7 @@ plugins {
 dependencies {
     implementation(project(":src:orbit-client"))
 
-    implementation("org.springframework:spring-context:5.2.6.RELEASE")
+    implementation("org.springframework:spring-context:6.2.5")
 
     testImplementation(project(":src:orbit-server"))
 
